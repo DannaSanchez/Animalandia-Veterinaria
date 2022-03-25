@@ -706,7 +706,6 @@ color: var(--white-color);
         flex-direction: row;
     }
     header{
-        background-color: violet;
         flex-direction: row;
     }
     #agenda{
@@ -937,7 +936,6 @@ color: var(--white-color);
 @media screen and (min-width:1024px){
     /*Index*/
     header{
-        background-color: rgb(146, 238, 130);
         flex-direction: row;
     }
      nav{
